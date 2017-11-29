@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project.
 
+![Eunice](https://github.com/eunicesegovia/eunicesegovia.github.io/blob/master/Eunice%20Segovia.PNG?raw=true "Optional Title")
 
-https://github.com/eunicesegovia/eunicesegovia.github.io/blob/master/Eunice%20Segovia.PNG
 
 ***
