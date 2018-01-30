@@ -17,6 +17,6 @@ This is my Camera Effects Project.
 
 Storyscape
 
-This is my Storyscape project
+This is my Storyscape project. People are attending a Demi Lovato concert.
 
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/eunicesegovia/final-litty-city" ></script>
